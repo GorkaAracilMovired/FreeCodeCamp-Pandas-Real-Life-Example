@@ -3,4 +3,4 @@
 
 This material is created for our [Data Science with Python Course](https://rmotr.com/data-science-python-course)
 
-Este es un cambio en el branch o en el trunk?
+Este es el readme del Master, el cambio del pullrequest hay que mergearlo
